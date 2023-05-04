@@ -1,0 +1,1 @@
+﻿Set-LocalUser -Name localadmin -PasswordNeverExpires:$true
